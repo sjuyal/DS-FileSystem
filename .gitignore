@@ -1,0 +1,7 @@
+*.class
+*/*.class
+.classpath
+.project
+*~
+*.swp
+.settings/
